@@ -1,0 +1,16 @@
+
+软交换解决方案主要有两种: Asterisk ,FreeSWITCH
+以上两种都是开源的
+
+ELASTIX就是现成的，有WEB管理界面,基于ASTERISK
+
+freeswitch资料多一点
+
+
+FreeSWITCH windows版安装
+http://jingyan.baidu.com/article/95c9d20da46a58ec4e756104.html
+
+
+
+用freeswitch架构自己的VOIP网络电话
+http://my.oschina.net/hetiangui/blog/131614

@@ -1,0 +1,14 @@
+
+http://serweb.iptel.org/user/my_account.php?kvrk=555c20485f1ec
+
+Username: zhongchengjun@iptel.org 
+   Password: iptel@2321 
+      Email: 527633405@qq.com 
+  Full Name: zhong chengjun 
+Sip address: sip:zhongchengjun@iptel.org 
+
+
+
+免费sip账号注册地址 http://serweb.iptel.org/user/reg/index.php
+免费sip服务器   iptel.org
+免费sip客户端 http://www.fring.com
